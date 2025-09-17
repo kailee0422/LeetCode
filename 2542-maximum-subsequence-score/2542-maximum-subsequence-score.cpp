@@ -1,7 +1,5 @@
-#include<vector>
-#include <queue>
-#include<algorithm>
-using namespace std;
+//Sorting cause:due to ensure num2s min should be calculate
+//priority_queue:Remove smallest kth nums1 element 
 class Solution {
 public:
 	long long maxScore(vector<int>& nums1, vector<int>& nums2, int k) {
