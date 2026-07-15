@@ -35,4 +35,12 @@ Practice on LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/kailee0422/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kailee0422/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kailee0422/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
