@@ -23,6 +23,7 @@ Practice on LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1894-merge-strings-alternately](https://github.com/kailee0422/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/kailee0422/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@ Practice on LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/kailee0422/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/kailee0422/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,4 +45,8 @@ Practice on LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kailee0422/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/kailee0422/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
