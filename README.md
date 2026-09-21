@@ -27,11 +27,13 @@ Practice on LeetCode
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/kailee0422/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/kailee0422/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/kailee0422/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/kailee0422/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/kailee0422/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
