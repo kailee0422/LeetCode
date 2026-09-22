@@ -18,6 +18,7 @@ Practice on LeetCode
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/kailee0422/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1894-merge-strings-alternately](https://github.com/kailee0422/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String
 | Problem Name | Difficulty |
@@ -53,4 +54,8 @@ Practice on LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kailee0422/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/kailee0422/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
